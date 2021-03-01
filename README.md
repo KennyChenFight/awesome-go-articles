@@ -1,5 +1,9 @@
 # awesome-go-articles
 
+## Self-recommendation
+
+My blog's golang articles🥴：https://blog.kennycoder.io/categories/Golang/
+
 ## Performance
 
 1. [Good Code vs Bad Code in Golang](https://teivah.medium.com/good-code-vs-bad-code-in-golang-84cb3c5da49d)
